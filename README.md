@@ -24,3 +24,11 @@ This SOC Lab project aimed to establish a controlled environment for simulating 
 ## DAY 1: Create a Logical Diagram 
 
 [![Watch Loom video!!](https://www.loom.com/share/44ad5698102645a997fde60dbdcbf2e0)](https://www.loom.com/share/44ad5698102645a997fde60dbdcbf2e0)
+
+## DAY 2 - 3: ELK Stack Introduction and Setup Tutorial
+
+![Watch Loom video!!](https://www.loom.com/share/8f721bc2ae18495a92ab05607c412505?sid=32b4aad5-4229-44d8-b690-6c1cbdee0439)
+
+## DAY 4: Kibana Setup Tutorial
+
+![Watch Loom video!!](https://www.loom.com/share/0dac7aaba8944df2833363c1e36b5666?sid=015fb46d-f1b5-452d-8dbb-cb3382d5a664)
