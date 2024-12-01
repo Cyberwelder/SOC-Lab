@@ -32,3 +32,7 @@ This SOC Lab project aimed to establish a controlled environment for simulating 
 ## DAY 4: Kibana Setup Tutorial
 
 [![Watch Loom video!!](https://www.loom.com/share/0dac7aaba8944df2833363c1e36b5666)](https://www.loom.com/share/0dac7aaba8944df2833363c1e36b5666)
+
+## DAY 5: Windows Server Install
+
+[![Watch Loom video!!](https://www.loom.com/share/144b2f903aab4f1191eada5e12dd9e28)](https://www.loom.com/share/144b2f903aab4f1191eada5e12dd9e28)
