@@ -22,4 +22,5 @@ This SOC Lab project aimed to establish a controlled environment for simulating 
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## DAY 1: Create a Logical Diagram 
-[![Watch the video](https://www.loom.com/share/44ad5698102645a997fde60dbdcbf2e0)](https://www.loom.com/share/44ad5698102645a997fde60dbdcbf2e0)
+
+[![Watch Loom video!!](https://www.loom.com/share/44ad5698102645a997fde60dbdcbf2e0)](https://www.loom.com/share/44ad5698102645a997fde60dbdcbf2e0)
