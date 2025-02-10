@@ -36,3 +36,11 @@ This SOC Lab project aimed to establish a controlled environment for simulating 
 ## DAY 5: Windows Server Install
 
 [![Watch Loom video!!](https://www.loom.com/share/144b2f903aab4f1191eada5e12dd9e28)](https://www.loom.com/share/144b2f903aab4f1191eada5e12dd9e28)
+
+## DAY 6: Fleet Server Install
+
+[![Watch Loom video!!](https://www.loom.com/share/4ace07accf8844e6a930ec9d6796085a?sid=8e780a26-5089-439c-88b8-0a7c867515fe)](https://www.loom.com/share/4ace07accf8844e6a930ec9d6796085a?sid=8e780a26-5089-439c-88b8-0a7c867515fe)
+
+## DAY 7: Sysmon Install
+
+[![Watch Loom video!!](https://www.loom.com/share/6236dad19b1a4718b194d83236e23b6d?sid=68271e71-8077-4472-8c12-f3800f505cc4)](https://www.loom.com/share/6236dad19b1a4718b194d83236e23b6d?sid=68271e71-8077-4472-8c12-f3800f505cc4)
