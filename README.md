@@ -48,3 +48,7 @@ This SOC Lab project aimed to establish a controlled environment for simulating 
 ## Day 8: Elasticsearch Ingest Data
 
 [![Watch Loom video!!](https://www.loom.com/share/da8e7fdf714e4f46aa2d2154b136e3f3)](https://www.loom.com/share/da8e7fdf714e4f46aa2d2154b136e3f3)
+
+## Day 9: Ubuntu Server 24.02 Installation
+
+[![Watch Loom video!!](https://www.loom.com/share/522ab3deb7be434ab33a73b290746763)](https://www.loom.com/share/522ab3deb7be434ab33a73b290746763)
