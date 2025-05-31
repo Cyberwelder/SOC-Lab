@@ -52,3 +52,9 @@ This SOC Lab project aimed to establish a controlled environment for simulating 
 ## Day 9: Ubuntu Server 24.02 Installation
 
 [![Watch Loom video!!](https://www.loom.com/share/522ab3deb7be434ab33a73b290746763)](https://www.loom.com/share/522ab3deb7be434ab33a73b290746763)
+
+## Day 10: How To Install Elastic Agent on Ubuntu
+
+[![Watch Loom video!!](https://www.loom.com/share/340bd0370f524e82acc282d8f783a32e)](https://www.loom.com/share/340bd0370f524e82acc282d8f783a32e)
+
+
