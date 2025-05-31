@@ -44,3 +44,7 @@ This SOC Lab project aimed to establish a controlled environment for simulating 
 ## DAY 7: Sysmon Install
 
 [![Watch Loom video!!](https://www.loom.com/share/6236dad19b1a4718b194d83236e23b6d?sid=68271e71-8077-4472-8c12-f3800f505cc4)](https://www.loom.com/share/6236dad19b1a4718b194d83236e23b6d?sid=68271e71-8077-4472-8c12-f3800f505cc4)
+
+## Day 8: Elasticsearch Ingest Data
+
+[![Watch Loom video!!](https://www.loom.com/share/da8e7fdf714e4f46aa2d2154b136e3f3)](https://www.loom.com/share/da8e7fdf714e4f46aa2d2154b136e3f3)
